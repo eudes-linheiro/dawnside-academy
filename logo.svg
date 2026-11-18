@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Academy logo">
+  <rect width="512" height="512" rx="48" fill="#1A2238"/>
+  <path d="M168 92h176l54 54v220l-54 54H168l-34-34v-72h35V198h-35v-72l34-34Z" fill="none" stroke="#FF6B35" stroke-width="20" stroke-linejoin="miter"/>
+  <path d="M210 148h92l42 42v132l-42 42h-92l-30-30v-156l30-30Z" fill="#1A2238" stroke="#1A2238" stroke-width="8"/>
+  <path d="M221 178h70v28h-70zm35 28-62 136h27l12-28h46l12 28h27l-62-136zm0 55 15 34h-30l15-34zm-7 93h14v74h-14z" fill="#F7F5F0"/>
+</svg>
